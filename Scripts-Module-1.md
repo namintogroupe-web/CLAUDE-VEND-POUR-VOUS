@@ -1,5 +1,4 @@
-TEST
-ligne 2 « é »# Scripts — Module 1 : Concevoir le produit avec Claude
+# Scripts — Module 1 : Concevoir le produit avec Claude
 
 Formation « Claude Vendeur » · DIGITAL PRO · Voix : Tony (ElevenLabs, Eleven v4)
 
